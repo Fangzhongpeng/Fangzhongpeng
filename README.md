@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzhongpeng&theme=cobalt2&show_icons=true)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fangzhongpeng&show_icons=true&theme=tokyonight)
 
 Visitor count
 
