@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/fangzhongpeng/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangzhongpeng&layout=compact&theme=tokyonight)
